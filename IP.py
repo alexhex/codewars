@@ -14,10 +14,6 @@ def is_valid_IP(strng):
             return False
     return True
 
-# if re.match(r'^\d+$', '5 6'):
-#     print 'Match'
-# else:
-#     print 'Mismatch'
 
 # is_valid_IP('12.255.56.1')
 # is_valid_IP('')

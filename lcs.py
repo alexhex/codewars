@@ -22,5 +22,5 @@ def lcs(x, y):
 
     print lst_x, lst_y,common_str_prefix
 
-lcs( "132535365" , "123456789" )
+#lcs( "132535365" , "123456789" )
 #lcs( "" , "" )
