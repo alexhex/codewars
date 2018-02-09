@@ -2,6 +2,9 @@
 #-*conding:utf-8-*-
 
 # updated by XNiu2 on 09-Feb-2018
+# https://www.codewars.com/kata/coloured-triangles/train/python
+
+
 
 def puke(row):
     al = 'RGB'
